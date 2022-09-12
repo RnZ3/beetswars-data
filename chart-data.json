@@ -3,107 +3,122 @@
     {
       "round": "04",
       "voteEnd": "1645376400",
-      "totalVotes": 33021516,
+      "totalVotes": "33021516",
       "totalBribes": 1045420,
-      "totalVoter": 2086
+      "totalVoter": 2086,
+      "totalBriber": 14
     },
     {
       "round": "05",
       "voteEnd": "1646586000",
       "totalVotes": 25430796,
       "totalBribes": 580863,
-      "totalVoter": 2000
+      "totalVoter": 2000,
+      "totalBriber": 14
     },
     {
       "round": "06",
       "voteEnd": "1647792000",
       "totalVotes": 36220537,
       "totalBribes": 568172,
-      "totalVoter": 2064
+      "totalVoter": 2064,
+      "totalBriber": 10
     },
     {
       "round": "07",
       "voteEnd": "1649001600",
       "totalVotes": 52744344,
       "totalBribes": 552793,
-      "totalVoter": 2734
+      "totalVoter": 2734,
+      "totalBriber": 11
     },
     {
       "round": "08",
       "voteEnd": "1650211200",
       "totalVotes": 50076576,
       "totalBribes": 589463,
-      "totalVoter": 2244
+      "totalVoter": 2244,
+      "totalBriber": 15
     },
     {
       "round": "09",
       "voteEnd": "1651420800",
       "totalVotes": 48214147,
       "totalBribes": 177810,
-      "totalVoter": 1726
+      "totalVoter": 1726,
+      "totalBriber": 9
     },
     {
       "round": "10",
       "voteEnd": "1652630400",
       "totalVotes": 49594267,
       "totalBribes": 67245,
-      "totalVoter": 1311
+      "totalVoter": 1311,
+      "totalBriber": 5
     },
     {
       "round": "11",
       "voteEnd": "1653840000",
       "totalVotes": 57583594,
       "totalBribes": 54510,
-      "totalVoter": 1317
+      "totalVoter": 1317,
+      "totalBriber": 7
     },
     {
       "round": "12",
       "voteEnd": "1655049600",
       "totalVotes": 50997573,
       "totalBribes": 46990,
-      "totalVoter": 1081
+      "totalVoter": 1081,
+      "totalBriber": 7
     },
     {
       "round": "13",
       "voteEnd": "1657468800",
       "totalVotes": 52804442,
       "totalBribes": 34730,
-      "totalVoter": 998
+      "totalVoter": 998,
+      "totalBriber": 7
     },
     {
       "round": "14",
       "voteEnd": "1657468800",
       "totalVotes": 60070860,
       "totalBribes": 32397,
-      "totalVoter": 1020
+      "totalVoter": 1020,
+      "totalBriber": 8
     },
     {
       "round": "15",
       "voteEnd": "1658678400",
       "totalVotes": 58166127,
       "totalBribes": 36891,
-      "totalVoter": 940
+      "totalVoter": 940,
+      "totalBriber": 10
     },
     {
       "round": "16",
       "voteEnd": "1659888000",
       "totalVotes": 61494823,
       "totalBribes": 43605,
-      "totalVoter": 1001
+      "totalVoter": 1001,
+      "totalBriber": 13
     },
     {
       "round": "17",
       "voteEnd": "1661097600",
       "totalVotes": 63262198,
       "totalBribes": 32892,
-      "totalVoter": 912
+      "totalVoter": 912,
+      "totalBriber": 9
     },
     {
       "round": "18",
       "voteEnd": "1662307200",
       "totalVotes": 62777030,
       "totalBribes": 24516,
-      "totalVoter": 806
+      "totalVoter": 806,
+      "totalBriber": 6
     }
   ]
 }
