@@ -1,6 +1,22 @@
 {
   "chartdata": [
     {
+      "round": "01",
+      "voteEnd": "1641740400",
+      "totalVotes": "8627013",
+      "totalBribes": "",
+      "totalVoter": "157",
+      "totalBriber": ""
+    },
+    {
+      "round": "02",
+      "voteEnd": "1642982400",
+      "totalVotes": "8381155",
+      "totalBribes": "",
+      "totalVoter": "170",
+      "totalBriber": ""
+    },
+    {
       "round": "03",
       "voteEnd": "1644166800",
       "totalVotes": "18998259",
