@@ -1,6 +1,14 @@
 {
   "chartdata": [
     {
+      "round": "03",
+      "voteEnd": "1644166800",
+      "totalVotes": "18998259",
+      "totalBribes": "",
+      "totalVoter": "762",
+      "totalBriber": ""
+    },
+    {
       "round": "04",
       "voteEnd": "1645376400",
       "totalVotes": "33021516",
