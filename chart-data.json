@@ -4,17 +4,17 @@
       "round": "01",
       "voteEnd": "1641740400",
       "totalVotes": "8627013",
-      "totalBribes": "",
+      "totalBribes": "0",
       "totalVoter": "157",
-      "totalBriber": ""
+      "totalBriber": "0"
     },
     {
       "round": "02",
       "voteEnd": "1642982400",
       "totalVotes": "8381155",
-      "totalBribes": "",
+      "totalBribes": "0",
       "totalVoter": "170",
-      "totalBriber": ""
+      "totalBriber": "0"
     },
     {
       "round": "03",
