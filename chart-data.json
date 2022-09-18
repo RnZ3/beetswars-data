@@ -143,6 +143,14 @@
       "totalBribes": "24516",
       "totalVoter": "806",
       "totalBriber": "6"
+    },
+    {
+      "round": "19",
+      "voteEnd": "1663516800",
+      "totalVotes": "62226116",
+      "totalBribes": "16656",
+      "totalVoter": "743",
+      "totalBriber": "5"
     }
   ]
 }
